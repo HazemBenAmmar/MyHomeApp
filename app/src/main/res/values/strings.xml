@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyHomeApp</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">login</string>
+    <string name="title_activity_dashboard_actvity">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="register">Register</string>
+    <string name="add_text">Add Terminal</string>
+    <string name="required">Required Field</string>
+    <string name="temp">Tepureture</string>
+    <string name="humidity">Humidity</string>
+    <string name="id">ID</string>
+    <string name="logout">logout</string>
+    <string name="authentication">Authentication</string>
+    <string name="devices">Devices</string>
+    <string name="values">Values</string>
+    <string name="setting">Setting</string>
+    <string name="max_tmp">Max Temp</string>
+    <string name="max_hum">Max Hum</string>
+</resources>
